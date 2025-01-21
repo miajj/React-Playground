@@ -1,11 +1,5 @@
-<<<<<<< HEAD
 # React-Playground
 React quick start https://react.dev/learn
-=======
-<<<<<<< HEAD
-# React-Playground
-React quick start https://react.dev/learn
-=======
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -76,5 +70,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 38b3810 (Add React quick start code)
->>>>>>> dad3f47 (Initial commit)
